@@ -6,7 +6,10 @@ namespace Rafgarden_Foundation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Умножение Карацубы (демо):\n");
+            KaratsubasMultiply.Demo();
+
+            Console.ReadLine();
         }
     }
 }
